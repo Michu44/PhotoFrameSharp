@@ -1,0 +1,98 @@
+# Binaries
+*.exe
+*.dll
+*.pdb
+
+# Visual Studio files
+*.suo
+*.user
+*.cache
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.sbr
+*.tlb
+*.tlh
+*.bak
+
+# ReSharper is a .NET coding add-in
+_ReSharper*
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+build/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio debug symbols
+*.mdb
+
+# Visual Studio user file
+*.csproj.user
+
+# Other build results
+*.DS_Store
+*.nupkg
+*.nuget
+*.apk
+*.ipa
+
+# Visual Studio cache files
+*.VC.db
+
+# Visual Studio auto-generated files
+*.vspscc
+*.vssscc
+
+# Visual Studio backup files
+*.bak
+
+# Visual Studio log files
+*.log
+
+# Visual Studio temporary files
+*.tmp
+
+# Visual Studio resx files
+*.resx
+
+# Visual Studio resources
+*.resources
+
+# Other common temporary files
+*.cache
+*.wbc
+
+# Ignore JetBrains Rider's artifacts
+*.sln.ide
+
+# Ignore JetBrains Rider's cache
+*.csproj.iml
+*.sln.iml
+.idea/
+
+# Ignore NuGet Packages
+*.nupkg
+
+# Ignore Windows temp files
+$RECYCLE.BIN/
+
+# Ignore Mac temp files
+*.DS_Store
+
+# Ignore JetBrains Rider's cache
+.idea/
+
+# Ignore NuGet Packages
+*.nupkg
+
+# Ignore Windows temp files
+$RECYCLE.BIN/
+
+# Ignore Mac temp files
+*.DS_Store
